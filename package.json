@@ -1,0 +1,26 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soljson-v0.8.13+commit.abaa5c0e.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandwizard/vending-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandwizard/vending-machine/issues"
+  },
+  "homepage": "https://github.com/sandwizard/vending-machine#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "truffle": "^5.5.6"
+  }
+}
